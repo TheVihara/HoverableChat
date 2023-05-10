@@ -1,0 +1,10 @@
+name: HoverableChat
+version: @version@
+main: network.ranked.hoverablechat.HoverableChat
+authors: [ Vihara ]
+softdepend:
+  - LuckPerms
+commands:
+  hchatreload:
+    description: Reloads the config
+    usage: /<command>
